@@ -1,0 +1,40 @@
+User creates an account: 
+The user provides their name, 
+email address, and password to 
+create an account on the app.
+
+User shares a spiritual experience: 
+The user posts a message on the 
+message board to share a spiritual
+experience they had. The message 
+is saved in the MongoDB database 
+and can be viewed by other users.
+
+User searches for a religion: 
+The user uses the search 
+feature to find a religion 
+that best suits their needs 
+and preferences. The app
+queries the MongoDB database
+to retrieve relevant 
+information and displays 
+it to the user.
+
+User connects with a spiritual leader: 
+The user sends a message to a 
+spiritual leader or mentor to 
+request guidance or support. 
+The app stores the message in 
+the MongoDB database and 
+notifies the spiritual leader 
+of the new message.
+
+[Sliding scale, optional, and at request] User makes a donation: 
+The user makes a donation 
+to support the app's 
+development or to 
+contribute to a charitable 
+cause. The app processes 
+the payment and saves the 
+transaction information 
+in the MongoDB database.
